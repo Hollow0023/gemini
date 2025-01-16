@@ -1,0 +1,1 @@
+ /Volumes/develop/Mobile\ Program/gemini2_test/.dart_tool/flutter_build/b7a17e99ad41284a7cd34f6e2e81d26f/native_assets.yaml: 
