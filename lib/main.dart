@@ -16,7 +16,7 @@ void main() {
   runApp(const MyApp());
 }
 
-const apiKey = "AIzaSyCAIOvHM8JnyWEhPkUfqW3Qxdmkaqgt2q4";
+const apiKey = "APIキー";
 
 const myUser = ChatUser(
     name: "ユーザー",
